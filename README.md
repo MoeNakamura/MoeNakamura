@@ -1,7 +1,8 @@
 
 <h1 align="left">👋 Hi, I'm Moe Nakamura</h1>
 
-![moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeNakamura&count_private=true&show_icons=true&theme=Tokyonight)
+
+![moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeNakamura&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeNakamura&layout=compact&theme=Tokyonight)
 
 <h3 align="left">Languages and Tools:</h3>
